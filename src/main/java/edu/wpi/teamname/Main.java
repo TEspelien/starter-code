@@ -16,6 +16,9 @@ public class Main {
 
   //Max Smith (MaxSmith02)
 
+  // Aarsh Zadaphiya (AarshZadaphiya)
+
+  //Sebastian Valle was here (seabassthecrab)
   //Brandon Lui was here (bmlui)
 
 }
