@@ -14,6 +14,4 @@ public class Main {
 
   //Hunter Poulin was here (Hunter102)
 
-  //Seth Frank was here (sethbfrank)
-
 }
