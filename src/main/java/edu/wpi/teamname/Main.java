@@ -14,6 +14,11 @@ public class Main {
 
   //Hunter Poulin was here (Hunter102)
 
-  //Seth Frank was here (sethbfrank)
+  //Max Smith (MaxSmith02)
+
+  // Aarsh Zadaphiya (AarshZadaphiya)
+
+  //Sebastian Valle was here (seabassthecrab)
+  //Brandon Lui was here (bmlui)
 
 }
