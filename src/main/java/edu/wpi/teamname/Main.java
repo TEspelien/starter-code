@@ -12,7 +12,7 @@ public class Main {
 
   //Bernhardt Adler was here (lbadler)
 
-  //Hunter Poulin was here (Hunter102)
+  //Hunter_Poulin was here (Hunter102)
 
   //Max Smith (MaxSmith02)
 
